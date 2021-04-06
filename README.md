@@ -1,6 +1,6 @@
-# Portfolio_Tracker
+## Portfolio_Tracker
 
-## Prerequisites necessary to use this code
+# Prerequisites necessary to use this code
 
 # (1) Create an AlphaVantage account for free at  https://www.alphavantage.co/support/#api-key and request an API
 #
@@ -15,7 +15,7 @@
 # E.g. if you want to pull Apple's stock price, use "Quantity_AAPL", "Price_AAPL", etc
 #
 # For symbol search define SEARCHWORD and find ticker:
-# https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords=SEARCHWORD&apikey=6M3D8EV1HA6WKQFI
+# https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords=SEARCHWORD&apikey=YOURKEY
 #
 # Adding new infomation just requires adding  additional rows. Adding a new security
 # means adding four new columns
