@@ -9,6 +9,7 @@ Prerequisites necessary to use this code
 The structure of the spreadsheet should be like this:
 
 Date       | Quantity_Stock1 | Price_Stock1    | Payments_Stock1| Cost_Stock1 |
+
 20xx-xx-xx |      Float      |      Float      |      Float     |      Float  |
 
 "Stock1" should be the string-handle used to pull the security-series from AlphaVantage.
