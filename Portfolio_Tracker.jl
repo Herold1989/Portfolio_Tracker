@@ -48,7 +48,7 @@ include("Project_Functions.jl")
 
 # Set start/end date of of data sample:
 
-start_date          = "2019-01-04";  # Trading information available starts on "2018-04-03".
+start_date          = "2019-01-04";  # Trading information available starts on "yyyy-mm-dd".
 end_date            = [];  # if "end_date" is empty, the last available value will be set.
 
 
